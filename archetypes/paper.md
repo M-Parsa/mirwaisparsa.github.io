@@ -1,5 +1,5 @@
 ---
-title: "Paper Title (less than 70 characters)" 
+title: "Institutional Quality and Economic Growth" 
 date: 2012-06-01
 url: /paper/
 aliases: 
